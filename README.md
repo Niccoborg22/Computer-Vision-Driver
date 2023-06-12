@@ -1,8 +1,8 @@
 # Driver Behaviour - Computer Vision
-### Goal 
+## Goal 
 --- 
 Predict what the driver is doing in each of the picture given
-### Technologies
+## Technologies
 ---
 The Technologies used in this model are the following: 
 - Python
@@ -13,8 +13,12 @@ The Technologies used in this model are the following:
     - Drive
     - Colab
 
-### Method
+## Method
 ---
+In order to achieve the best possible model, two different models have been developed: 
+- **CNN Model**: The first model has been developed using a self-built CNN Model
+- **Transfer Learning Mode**: The second model has been done using Transfer Learning through Keras
+
 Using a pool of driver images, each taken in a car with a driver doing something in the car and categorize each image according to one of the following action: 
 - c0: safe driving
 - c1: texting - right
@@ -27,7 +31,7 @@ Using a pool of driver images, each taken in a car with a driver doing something
 - c8: hair and makeup
 - c9: talking to passenger
 
-### Data
+## Data
 ---
 The data has been retrieved from the following link: https://drive.google.com/file/d/1l1pN5ZQ6gELeWR8H1uZr0V05hP3gfpg_/view?usp=sharing. In order to train the model, the images have been saved in a Google Drive folder following this structure:
 - imgs
