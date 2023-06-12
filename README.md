@@ -69,16 +69,16 @@ We can conclude that the best model that we have built is **xxx**. From a small 
 **ADD IMAGE TEST**
 You can check the final results of each model from the following images:
 ### CNN-ADAM 
-**Accuracy**
+**Accuracy**  
 ![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/f89fa424-ca16-49f3-a9d0-e08471e0f69e)
-**Confusion Matrix**
+**Confusion Matrix**  
 ![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/1cd60067-6dd5-4d4c-b9d0-9e22f48b7bd2)
 ### CNN-NADAM 
-**Accuracy**
-**Confusion Matrix**
+**Accuracy**  
+**Confusion Matrix**  
 ### Transfer-VGG16
-**Accuracy**
-**Confusion Matrix**
+**Accuracy**  
+**Confusion Matrix**  
 ### Transfer-MobileNetV2
-**Accuracy**
-**Confusion Matrix**
+**Accuracy**  
+**Confusion Matrix**  
