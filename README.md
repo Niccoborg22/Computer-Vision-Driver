@@ -29,7 +29,7 @@ Using a pool of driver images, each taken in a car with a driver doing something
 
 ### Data
 ---
-In order to train the model, the images have been saved in a Google Drive folder following this structure:
+The data has been retrieved from the following link: https://drive.google.com/file/d/1l1pN5ZQ6gELeWR8H1uZr0V05hP3gfpg_/view?usp=sharing. In order to train the model, the images have been saved in a Google Drive folder following this structure:
 - imgs
   - train
     - c0
@@ -38,6 +38,7 @@ In order to train the model, the images have been saved in a Google Drive folder
     - c3
     - ...
   - test
+  - 6imgtest
 
 ## End Result 
 --- 
