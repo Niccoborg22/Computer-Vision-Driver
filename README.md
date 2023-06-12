@@ -56,9 +56,23 @@ The data has been retrieved from the following link: https://drive.google.com/fi
 
 ## End Result 
 --- 
+The result of the models can be summarized in this table: 
+
 MODEL | ACCURACY | BEST MODEL
 --- | --- | ---
 *CNN-ADAM* | 0.8132 | 
 *CNN-NADAM* | 0. |
 *Transfer-VGG16* | 0. | `YES`
 *Transfer-MobileNetV2* | 0. | 
+
+We can conclude that the best model that we have built is **xxx**. From a small testing sample we can also conclude such conclusions: 
+**ADD IMAGE TEST**
+You can check the final results of each model from the following images:
+### CNN-ADAM 
+**ADD IMAGES**
+### CNN-NADAM 
+**ADD IMAGES**
+### Transfer-VGG16
+**ADD IMAGES**
+### Transfer-MobileNetV2
+**ADD IMAGES**
