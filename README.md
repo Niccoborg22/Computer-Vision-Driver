@@ -62,17 +62,23 @@ MODEL | ACCURACY | BEST MODEL
 --- | --- | ---
 *CNN-ADAM* | 0.8132 | 
 *CNN-NADAM* | 0. |
-*Transfer-VGG16* | 0. | `YES`
+*Transfer-VGG16* | 0.9292 | `YES`
 *Transfer-MobileNetV2* | 0. | 
 
 We can conclude that the best model that we have built is **xxx**. From a small testing sample we can also conclude such conclusions: 
 **ADD IMAGE TEST**
 You can check the final results of each model from the following images:
 ### CNN-ADAM 
-**ADD IMAGES**
+**Accuracy**
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/f89fa424-ca16-49f3-a9d0-e08471e0f69e)
+**Confusion Matrix**
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/1cd60067-6dd5-4d4c-b9d0-9e22f48b7bd2)
 ### CNN-NADAM 
-**ADD IMAGES**
+**Accuracy**
+**Confusion Matrix**
 ### Transfer-VGG16
-**ADD IMAGES**
+**Accuracy**
+**Confusion Matrix**
 ### Transfer-MobileNetV2
-**ADD IMAGES**
+**Accuracy**
+**Confusion Matrix**
