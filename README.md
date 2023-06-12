@@ -17,7 +17,7 @@ The Technologies used in this model are the following:
 ---
 In order to achieve the best possible model, two different models have been developed: 
 - **CNN Model**: The first model has been developed using a self-built CNN Model
-- **Transfer Learning Mode**: The second model has been done using Transfer Learning through Keras
+- **Transfer Learning Model**: The second model has been done using Transfer Learning through Keras
 
 Using a pool of driver images, each taken in a car with a driver doing something in the car and categorize each image according to one of the following action: 
 - c0: safe driving
@@ -30,6 +30,16 @@ Using a pool of driver images, each taken in a car with a driver doing something
 - c7: reaching behind
 - c8: hair and makeup
 - c9: talking to passenger
+
+### CNN Model
+While developing the CNN Model I have tried to use two different classifiers: 
+- **Adam**: Adam optimization is a stochastic gradient descent method that is based on adaptive estimation of first-order and second-order moments.
+- **Nadam**: Much like Adam is essentially RMSprop with momentum, Nadam is Adam with Nesterov momentum.
+
+### Transfer Learning Model
+While developing the Transfer Learning Model I have tried to use two different trained model: 
+- The **VGG16 model** is an image classifier that was trained on the ImageNet dataset. Using the trained model by excluding its top layer and set its input shape to match our image data we will be able to have a model
+- The **MobileNetV2** is a lightweight model designed for mobile and embedded vision applications
 
 ## Data
 ---
@@ -46,3 +56,9 @@ The data has been retrieved from the following link: https://drive.google.com/fi
 
 ## End Result 
 --- 
+MODEL | ACCURACY | BEST MODEL
+--- | --- | ---
+*CNN-ADAM* | 0.8132 | 
+*CNN-NADAM* | 0. |
+*Transfer-VGG16* | 0. | `YES`
+*Transfer-MobileNetV2* | 0. | 
