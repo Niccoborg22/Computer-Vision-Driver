@@ -75,10 +75,18 @@ You can check the final results of each model from the following images:
 ![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/1cd60067-6dd5-4d4c-b9d0-9e22f48b7bd2)
 ### CNN-NADAM 
 **Accuracy**  
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/0ca2d83c-04a1-487a-9a47-d404ad405aa4)
+
 **Confusion Matrix**  
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/15de3e66-9f42-4cc0-b483-a7e5475cdc71)
+
 ### Transfer-VGG16
 **Accuracy**  
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/ce261656-03e3-4a53-93e9-006a84d01226)
+
 **Confusion Matrix**  
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/7974fed5-101c-4fb1-8762-36260b2787a5)
+
 ### Transfer-MobileNetV2
 **Accuracy**  
 **Confusion Matrix**  
