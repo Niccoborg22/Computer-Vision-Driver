@@ -61,8 +61,8 @@ The result of the models can be summarized in this table:
 MODEL | ACCURACY | BEST MODEL
 --- | --- | ---
 *CNN-ADAM* | 0.8132 | 
-*CNN-NADAM* | 0. |
-*Transfer-VGG16* | 0.9292 | `YES`
+*CNN-NADAM* | 0.8553 |
+*Transfer-VGG16* | 0.9301 | `YES`
 *Transfer-MobileNetV2* | 0. | 
 
 We can conclude that the best model that we have built is **xxx**. From a small testing sample we can also conclude such conclusions: 
