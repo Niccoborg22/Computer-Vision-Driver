@@ -54,6 +54,26 @@ The data has been retrieved from the following link: https://drive.google.com/fi
   - test
   - 6imgtest
 
+## Future improvements
+---
+### Epochs 
+Each model has been developed with a single epoch due to time and CPU concerns. In order to get a better model it would be ideal to increase the amount of epochs.
+### Further personalization
+At the moment only two different classifiers in the CNN Model and only two trained model in the transfer learning one. As you can see from the results the difference is visible and it could be interesting to try new classifiers and trained model. Some of the ones that should be looked at are the following:
+Classifiers: 
+- SGD
+- RMSprop
+- Adadelta
+- Adagrad
+- Adamax
+- Adafactor
+
+Trained model:
+- ResNet
+- EfficientNet
+- Inception-v3
+
+
 ## End Result 
 --- 
 The result of the models can be summarized in this table: 
@@ -90,3 +110,4 @@ You can check the final results of each model from the following images:
 ### Transfer-MobileNetV2
 **Accuracy**  
 **Confusion Matrix**  
+
