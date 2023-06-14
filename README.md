@@ -113,5 +113,9 @@ You can check the final results of each model from the following images:
 
 ### Transfer-MobileNetV2
 **Accuracy**  
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/e1c6f7ec-2d87-44f8-ab69-f98881231772)
+
 **Confusion Matrix**  
+![image](https://github.com/Niccoborg22/Computer-Vision-Driver/assets/114749413/454991d7-3f15-4c92-bbb1-737e8097a0df)
+
 
