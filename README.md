@@ -83,10 +83,14 @@ MODEL | ACCURACY | BEST MODEL
 *CNN-ADAM* | 0.8132 | 
 *CNN-NADAM* | 0.8553 |
 *Transfer-VGG16* | 0.9301 | `YES`
-*Transfer-MobileNetV2* | 0. | 
+*Transfer-MobileNetV2* | 0.8935 | 
 
-We can conclude that the best model that we have built is **xxx**. From a small testing sample we can also conclude such conclusions: 
-**ADD IMAGE TEST**
+The final conclusions that we can derive are the following: 
+- As a whole, the Transfer learning models are more accurate than the self-built CNN ones
+- The difference when using a different classifier or trained model are evident, it would be ideal to perform more test to find a better model
+- The best model has been the *Transfer Learning model with the VGG16* trained model
+
+
 You can check the final results of each model from the following images:
 ### CNN-ADAM 
 **Accuracy**  
