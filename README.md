@@ -88,7 +88,7 @@ MODEL | ACCURACY | BEST MODEL
 The final conclusions that we can derive are the following: 
 - As a whole, the Transfer learning models are more accurate than the self-built CNN ones
 - The difference when using a different classifier or trained model are evident, it would be ideal to perform more test to find a better model
-- The best model has been the *Transfer Learning model with the VGG16* trained model
+- The best model has been the **Transfer Learning model with the VGG16** trained model
 
 
 You can check the final results of each model from the following images:
