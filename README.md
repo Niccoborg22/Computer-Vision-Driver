@@ -15,7 +15,7 @@ The Technologies used in this model are the following:
 
 ## Method
 ---
-**All the jupyter notebooks in the repository have been run in Colab**
+**All the jupyter notebooks in the repository have been run in Colab**.
 In order to achieve the best possible model, two different models have been developed: 
 - **CNN Model**: The first model has been developed using a self-built CNN Model
 - **Transfer Learning Model**: The second model has been done using Transfer Learning through Keras
