@@ -59,6 +59,8 @@ The data has been retrieved from the following link: https://drive.google.com/fi
 ---
 ### Epochs 
 Each model has been developed with a single epoch due to time and CPU concerns. In order to get a better model it would be ideal to increase the amount of epochs.
+### Learning Rate 
+The models have all been trained using a 0.001 learning rate. The LR determines the size of the step at which the optimizer chosen updates the model's weights during the training phase. Choosing an appropriate learning rate often requires experimentation and, given the limits in CPU and time I chose to keep the LR constant in all models. In the future it would be appropriate to experiment and find the best LR to maximize the accuracy.
 ### Further personalization
 At the moment only two different classifiers in the CNN Model and only two trained model in the transfer learning one. As you can see from the results the difference is visible and it could be interesting to try new classifiers and trained model. Some of the ones that should be looked at are the following:
 Classifiers: 
